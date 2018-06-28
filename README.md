@@ -1,1 +1,3 @@
-start server: jekyll serve --livereload
+# Alberto Penas Amor blog
+
+## You can visit the [blog](https://albertopeam.github.io/)
